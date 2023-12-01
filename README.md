@@ -14,3 +14,6 @@ Descriptive statistics of the analysis are as follows:
 
 # Links visualization between the buildings and the stops:
 ![BuildingLinksToStop](https://github.com/manojpariyar/Closest_stops/assets/114010808/93dcda69-f588-46fa-b8dd-82407e0f0a19)
+
+# Actual map:
+![Closest_busstops](https://github.com/manojpariyar/Closest_stops/assets/114010808/fee1d330-e7c0-41d8-87b3-6aa0e825e226)
