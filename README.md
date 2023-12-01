@@ -8,16 +8,17 @@ BallTree function from scikit-learn library in Python is used for this analysis.
 # Analysis:
 Descriptive statistics of the analysis are as follows:
 
-| Distance in meter |
-| -------- | -------- |
-| count | 16498.000000  |
-| mean | 339.703058 |
-| std | 675.557473 |
-| min | 2.405078  |
-| 25% | 101.201631 |
-| 50% | 164.570039 |
-| 75% | 278.466764 |
-| max | 7112.685417 |
+Distance in meter
+count 	16498.000000
+mean 	339.703058
+std 	675.557473
+min 	2.405078
+25%	101.201631
+50%	164.570039
+75%	278.466764
+max	7112.685417
+![image](https://github.com/manojpariyar/Closest_stops/assets/114010808/13f0e2e1-7e65-4ea5-b99d-c423be946ec4)
+
 
 16498 buildings are included for the analysis. The average distance between the buildings and the stops is 340 meter. The closest and the farthest distance between the building and the busstop are 2.405078 m and 7112.685417 m respectively. About 25 % of buildings lies within a distance of 101 meter from the busstops, 50 % within 165 meter from the busstops and 70 % within 278 meter from the busstops.
 
