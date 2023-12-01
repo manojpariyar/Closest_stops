@@ -1,4 +1,4 @@
-# Note: This analysis is just for fun, simply to get an idea of how the Nearest Neighbour analysis is done in python. So, the result of this analysis does not reflect the actual condition of the municipality taken into consideration.
+## Note: This analysis is just for fun, simply to get an idea of how the Nearest Neighbour analysis is done in python. So, the result of this analysis does not reflect the actual condition of the municipality taken into consideration.
 
 # Nearest Neighbour analysis
 This is a map of showing buildings and stops in Molde Municipality which gives information about the distance of each buildings from their closest stops. The distance is calculated in meter and the distance attribute pops up when you hover the mouse over the building points. The distance is linear. The data of buildings is taken from the website: https://www.geonorge.no/ and the busstop points are extracted from Open Steet Map service website: https://openstreetmap.org/.
