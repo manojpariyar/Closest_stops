@@ -8,8 +8,8 @@ BallTree function from scikit-learn library in Python is used for this analysis.
 # Analysis:
 Descriptive statistics of the analysis are as follows:
 
-  Distance in meter
-count    16498.000000
+Distance in meter
+count      16498.000000
 mean       339.703058
 std        675.557473
 min          2.405078
